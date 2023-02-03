@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Binary to Decimal Converter
 This problem can be found in https://github.com/email2vimalraj/Bin2Dec webpage
-Here I developed using my first nestJS test
+Here I developed using my first nextJS test
 
 Tier: 1-Beginner
 
